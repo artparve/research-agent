@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indexing Project"
+  short_description: "Build and search a repository context index"
+  default_prompt: "Use $indexing-project to index this Python repository and gather relevant context before editing code."
